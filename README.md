@@ -1,2 +1,7 @@
 # XAI-Backdoor-papers
-This repository serves as a compilation of classical papers as well as the latest developments in the fields of Explainable Artificial Intelligence (XAI) and backdoor learning. It aims to provide a comprehensive resource for researchers and enthusiasts interested in these areas. In addition, valuable comments and notes will be included to enhance the understanding and relevance of the papers.
+This repository compiles classical and recent papers on XAI and backdoor learning, with added comments and notes.
+
+# XAI
+pass
+# Backdoor Learning
+pass
